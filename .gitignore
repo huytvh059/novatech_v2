@@ -1,0 +1,6 @@
+/.agent/
+/vendor/
+/storage/
+/config.php
+*.log
+.DS_Store
